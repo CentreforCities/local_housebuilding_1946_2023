@@ -29,13 +29,9 @@ New towns and land value capture: https://www.centreforcities.org/publication/re
 ## How we got this data 
 This data is mostly the product of a digitisation project led by the Centre for Cities in 2024. 
 
-The London School of Economics Digital Library provided us with scans of housebuilding reports from 1946 through to 2000. They have now been uploaded to the LSE Online library here: 
+The London School of Economics Digital Library provided us with scans of housebuilding reports from 1946 through to 2000. They have now been uploaded to the LSE Digital library here: 
 
-https://lse-atom.arkivum.net/uklse-dl1eh01008 
-
-https://lse-atom.arkivum.net/uklse-dl1eh01009
-
-https://lse-atom.arkivum.net/uklse-dl1eh01010
+https://digital.library.lse.ac.uk/collections/list/collections/41
 
 We digitised this data using a combination of OCR and manual data entry and checking. The digitised data is now free of any noticeable errors. Where there were obvious errors in the source data, this was corrected as best made sense given contextual data. Small errors may have slipped through the checking process, so digitised and scanned data may not 100% match. 
 
