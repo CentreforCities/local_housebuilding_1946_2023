@@ -1,7 +1,9 @@
 # local_housebuilding_1946_2023
 Information about local authority housebuilding data in England from 1946-2023, digitised and compiled in 2024 by Centre for Cities. 
 
-*Note - April 2025 updates add an extra year and make minor changes to housebuilding data workbooks and relevant scripts, following a decision to use MHCLG Table 123 as the source of total new build housebuilding from 2012-2023.This results in a small uplift to private and total housebuilding, mostly in urban areas, for the years affected. All historical data remains unchanged as a result of this update. See diagram in Folder 1 for clarity on data sources.*
+*Note - April 2025 updates add an extra year and make minor changes to housebuilding data workbooks and relevant scripts, following a decision to use MHCLG Table 123 as the source of total new build housebuilding from 2012-2023.This results in a small uplift to private and total housebuilding, mostly in urban areas, for the years affected. All historical data remains unchanged as a result of this update. See diagram in Folder 1 for clarity on data sources.* 
+
+*Note 2 - August 2026, users correctly identified that data for London housebuilding has missed lines containing building by London County Councils and the Greater London Council between 1946 and the 1980s. This leads to roughly 20-30% under-count if Inner and Outer London totals are summed compared to the real figure. Centre for Cities will work to correct this in the data Autumn 2026. If users need accurate London figures before this update, please refer to the original tables on the LSE Library and include the London Councils/GLC (minus City of London) totals. Stock estimates are unaffected by this error as total housing stock is re-based to census figures at each census year.*
 
 ## Description 
 This repository describes the data Centre for Cities can make available following data work carried out for the 2024 Restarting Housebuilding series: 
